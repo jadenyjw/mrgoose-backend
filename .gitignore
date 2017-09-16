@@ -1,0 +1,4 @@
+.DS_Store
+todo.txt
+training/*
+dataset.hdf5
