@@ -2,3 +2,4 @@
 todo.txt
 training/*
 dataset.hdf5
+model.h5
